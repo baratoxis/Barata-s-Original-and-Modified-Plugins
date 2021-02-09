@@ -1,6 +1,6 @@
 PLUGIN.name = "Gangs"
 PLUGIN.author = "Barata"
-PLUGIN.desc = "Allows to create and join gang in-game without needing the permission of an admin."
+PLUGIN.desc = "Allows to create and join gangs in-game without needing the permission of an admin."
 
 nut.command.add("creategang", {
 	adminOnly = false,
